@@ -22,3 +22,12 @@ button {
   padding: 8px 12px;
   cursor: pointer;
 }
+
+.photo {
+  display: flex;
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+  
+
+}
